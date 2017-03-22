@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Bot 1",
+    "location": "Austin",
+    "spec": {
+      "make": "Raspbery Pi",
+      "model": "1"
+    },
+    "status": "Operational"
+  },
+  {
+    "title": "Bot 2",
+    "location": "Houston",
+    "spec": {
+      "make": "Arduino",
+      "model": "Gen. 2"
+    },
+    "status": "Operational"
+  },
+  {
+    "title": "Bot 3",
+    "location": "Dallas",
+    "spec": {
+      "make": "Raspbery Pi",
+      "model": "3"
+    },
+    "status": "Operational"
+  }
+]
